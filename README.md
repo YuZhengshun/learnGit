@@ -1,3 +1,3 @@
 # learnGit
 
-测试git
+测试git-内部readme
